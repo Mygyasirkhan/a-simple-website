@@ -1,0 +1,258 @@
+searchbox {
+  float: left;
+}
+
+input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: 1.5px solid;
+}
+
+.searchbox button {
+
+  padding: 8px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background: orange;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.searchbox button:hover {
+  background: blue;
+}
+
+.ni {
+  text-decoration: none;
+  list-style-type: none;
+  background-color: black;
+}
+
+li {
+  float: left;
+  color: black;
+
+}
+
+a {
+  padding: 7px;
+  justify-content: center;
+  padding-left: 25px;
+  color: royalblue;
+
+}
+
+.body {
+
+
+
+  margin: 0;
+  padding: 0;
+
+}
+
+/*
+.loader {
+    height: 40px;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    transform: tranlateX(-30%) translateY(-30%);
+    
+}
+
+.loader span {
+    font-family: Flix;
+    font-size: 50px;
+    color: rgba(255, 255, 40, .10);
+    display: inline-block;
+    transition: all .30s;
+    animation: animate 1s infinite;
+    
+}
+
+.loader span:nth-child(1) {
+    animation-delay: .1s;
+}
+
+.loader span:nth-child(2) {
+    animation-delay: .2s;
+}
+
+.loader span:nth-child(3) {
+    animation-delay: .3s;
+}
+
+.loader span:nth-child(4) {
+    animation-delay: .4s;
+}
+
+.loader span:nth-child(5) {
+    animation-delay: .5s;
+}
+.loader span:nth-child(6){
+  animation-delay: .6s;
+}
+
+
+
+@keyframes animate {
+    0% {
+        color: blue;
+        transform: translateY(0);
+        margin-left: 0px;
+    }
+    10%{
+        color:yellow;
+        margin-left:10px;
+    }
+    20%{
+        color:purple;
+    }
+    25% {
+        color: red;
+        transform: translateY(-55%);
+        margin-left: 20px;
+        text-shadow: 0 15px 5px rgba(1, 1, 1, 1)
+    }
+    35%{
+        color:orange;
+    }
+    50%{
+        color: rgb(252, 248, 400);
+        transform:translateY(80%);
+        margin-left: 20px;
+        text-shadow:0 15px 5px rgba(2, 2, 2, 2,);
+    }
+    65%{
+        color:rgba(60%, 60%, 60%, 60%,);
+        animation-delay:.5s;
+    }
+    100% {
+        color: green;
+        transform: translateY(100%);
+    }
+*/
+.footer {
+  grid-row-start: 4;
+  grid-row-end: 5;
+}
+
+.footer {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  text-align: center;
+
+
+
+}
+
+.footer h1 {
+  color: royalblue;
+  font-style: bold;
+  opacity: 0.8;
+}
+
+.footer p {
+  color: black;
+  text-align: justify;
+  padding: 20px;
+}
+
+.h1 span:nth-child(1) {
+  font-family: Flix;
+  text-align: center;
+}
+
+.h1 span:nth-child(2) {
+  color: orange;
+  text-align: center;
+}
+
+.h1 {
+  padding-left: 56px;
+}
+
+.p1 p {
+
+  padding-left: 10px;
+  text-align: justify;
+  padding-right: 10px;
+}
+
+#qqq {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.p2 p {
+  padding-left: 10px;
+  text-align: justify;
+  padding-right: 10px;
+}
+
+#yyy {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#ttt {
+  width: 400px;
+  padding-left: 10px;
+}
+
+.p3 p {
+  padding-left: 10px;
+  text-align: justify;
+  padding-right: 10px;
+  font-family: Flix;
+}
+
+#imb {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.nd p {
+  padding-left: 10px;
+  text-align: justify;
+  padding-right: 10px;
+}
+
+#lll {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+#mmm {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#ooo {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.yas p {
+
+  padding-left: 10px;
+  text-align: justify;
+  padding-right: 10px;
+}
+
+#gys {
+
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
